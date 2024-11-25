@@ -58,6 +58,9 @@ Follow us on LinkedIn!
 
 ## Credits
 
+All the credits for the idea and development of the demo application goes to [Cristina Vercellino](https://www.linkedin.com/in/cristina-vercellino-91319522a/)!
+Follow her also on here Git-Hub page [here](https://github.com/cverce)!
+
 ## Installation of the demo app
 
 Install poetry globally with python (version 3.10 or more), then use the following commands:
