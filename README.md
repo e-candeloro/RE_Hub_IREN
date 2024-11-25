@@ -48,10 +48,15 @@ Then, the filtered data can be employed to predict with a Machine Learning model
 
 ![team](media/team.png)
 
-Contacts (LinkedIn):
-- [Cristina Vercellino]()
-- [Jamila Mansour]()
-- [Ettore Candeloro]()
+### Contacts:
+
+Follow us on LinkedIn!
+
+- [Cristina Vercellino](https://www.linkedin.com/in/cristina-vercellino-91319522a/)
+- [Jamila Mansour](https://www.linkedin.com/in/jamila-mansour-bba31a26b/)
+- [Ettore Candeloro](https://www.linkedin.com/in/ettore-candeloro-900081162/)
+
+## Credits
 
 ## Installation of the demo app
 
