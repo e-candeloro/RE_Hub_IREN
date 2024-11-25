@@ -17,14 +17,14 @@ Read more on the [Reggio Hub Challenge website](https://reggiohub.it/talent-road
 ![logo](media/logo.png)
 
 We proposed a smart monitoring system that employs cameras on waste management vehicles.
-Using Computer Vision algorithms with Artificial Intelligence, the cameras can identify, classify and track the position and type of abandoned waste in the streets, sending real-time data to the operational center of IREN.
-The data con be aggregated with the already existing one of IREN (like the bins positions and vehicle optimized routes) to then employ data analysis and extract business intelligence information to:
+Using Computer Vision algorithms with Artificial Intelligence, the cameras can identify, classify, and track the position and type of abandoned waste in the streets, sending real-time data to the operational center of IREN.
+The data can be aggregated with the already existing one of IREN (like the bins positions and vehicle-optimized routes) to then employ data analysis and extract business intelligence information to:
 
 - identify critical waste areas
-- plan new bins installations
+- plan new bin installations
 - predict with AI algorithm waste position, type
 - track waste automatically for the new upcoming ARERA standards
-- track bins condition
+- track bins' condition
 - identify anomalies and bottlenecks
 
 Read our [presentation/pitch deck](https://www.canva.com/design/DAGXSwYaIjk/SCSYonaK8hrFkJICOxKFaA/view?utm_content=DAGXSwYaIjk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
@@ -33,7 +33,7 @@ Read our [presentation/pitch deck](https://www.canva.com/design/DAGXSwYaIjk/SCSY
 
 Our demo simulates, with artificial data, a dashboard to visualize waste on a city map (Turin in our example).
 The waste can be filtered and visualized by types with color coding and also by what information channel was used to detect it.
-Then, the filtered data can be employed to predict with a Machine Learning model, the future days positions and types of waste.
+Then, the filtered data can be employed to predict with a Machine Learning model, the future days' positions and types of waste.
 
 ### Map
 
@@ -58,8 +58,8 @@ Follow us on LinkedIn!
 
 ## Credits
 
-All the credits for the idea and development of the demo application goes to [Cristina Vercellino](https://www.linkedin.com/in/cristina-vercellino-91319522a/)!
-Follow her also on here Git-Hub page [here](https://github.com/cverce)!
+All the credits for the demo application idea and development go to [Cristina Vercellino](https://www.linkedin.com/in/cristina-vercellino-91319522a/)!
+Follow her on the Git-Hub page [here](https://github.com/cverce) and [LinkedIn](https://www.linkedin.com/in/cristina-vercellino-91319522a/)!
 
 ## Our idea canvas + jobs to be done canvas
 
@@ -73,7 +73,7 @@ Follow her also on here Git-Hub page [here](https://github.com/cverce)!
 
 ## Installation of the demo app
 
-Install poetry globally with python (version 3.10 or more), then use the following commands:
+Install poetry globally with Python (version 3.10 or more), then use the following commands:
 
     poetry config settings.virtualenvs.in-project true
     
@@ -85,7 +85,7 @@ Then run the project with:
 
     python main.py
 
-The server with be launched at localhost (http://127.0.0.1:8050/), so you can visualize it with a browser.
+The server will be launched at localhost (http://127.0.0.1:8050/), so you can visualize it with a browser.
 
 If all is good you will see:
 
