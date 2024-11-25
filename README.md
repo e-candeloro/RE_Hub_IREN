@@ -35,6 +35,8 @@ Our demo simulates, with artificial data, a dashboard to visualize waste on a ci
 The waste can be filtered and visualized by types with color coding and also by what information channel was used to detect it.
 Then, the filtered data can be employed to predict with a Machine Learning model, the future days' positions and types of waste.
 
+![demo video](media/demo_video.mp4)
+
 ### Map
 
 ![dashboard example](media/dashboard_map.png)
